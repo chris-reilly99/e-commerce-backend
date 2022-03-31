@@ -58,6 +58,6 @@ npm start
 ---
 
 ## **License**
-This application is licensed under the MIT License, you can find the full license information [here](http://github.com/)
+This application is licensed under the MIT License
 
 ---
