@@ -8,6 +8,7 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
   - [Table of contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Tutorial](#tutorial)
 
   ---
 ## **Installation**
@@ -35,3 +36,8 @@ To finish the set-up the application:
 
 Now you're ready to start the application! You can start the server by running: 
 `npm start`
+
+---
+## **Tutorial**
+Check out the video tutorial at this link:
+https://drive.google.com/drive/folders/1X0p9tn1QOIzEXHeiB5khjoDUL-5SGAfJ?usp=sharing
